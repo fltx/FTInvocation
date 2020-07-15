@@ -48,6 +48,7 @@
 		E16F474E24B204B500BF0E23 /* UIViewController+Swizzle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+Swizzle.h"; sourceTree = "<group>"; };
 		E16F474F24B204B500BF0E23 /* AopHooker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AopHooker.m; sourceTree = "<group>"; };
 		E16F475024B204B500BF0E23 /* SwizzleHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SwizzleHelper.m; sourceTree = "<group>"; };
+		E19B8FFA24BE9A5E00CA7A26 /* FTKitDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FTKitDefine.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +100,7 @@
 		E16F474224B204B500BF0E23 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				E19B8FFA24BE9A5E00CA7A26 /* FTKitDefine.h */,
 				E16F474624B204B500BF0E23 /* InvocationDefine.h */,
 				E16F474924B204B500BF0E23 /* InvocationKit.h */,
 				E16F474324B204B500BF0E23 /* InvocationKit.m */,
